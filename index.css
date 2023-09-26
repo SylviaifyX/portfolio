@@ -295,6 +295,8 @@ section {
 
 #experience {
   position: relative;
+  
+  height: 450px;
 }
 
 .experience-sub-title {
