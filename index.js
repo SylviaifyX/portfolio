@@ -13,3 +13,5 @@ ScrollReveal({ reset: true,
 });
 
 ScrollReveal().reveal('.section__pic-container', { origin: 'top' });
+ScrollReveal().reveal('.section__text__p1', { origin: 'left' });
+ScrollReveal().reveal('.title', { origin: 'right' });
